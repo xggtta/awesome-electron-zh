@@ -83,7 +83,8 @@
 -   [Upterm](https://github.com/railsware/upterm)- 终端. 
 -   [Atom](https://github.com/atom/atom)- 代码编辑器. 
 -   [Visual Studio Code](https://github.com/Microsoft/vscode)- 跨平台IDE. 
--   [Brave](https://github.com/brave/browser-laptop)- 以隐私为中心的网络浏览器. 
+-   [Brave](https://github.com/brave/browser-laptop)- 以隐私为中心的网络浏览器.
+-   [UniFab](https://unifab.ai/ai-video-enhancer.htm)- 8合1的综合视频增强软件.
 
 ###### 其他
 
@@ -251,7 +252,7 @@
 -   [Hackolade](http://hackolade.com)-  NoSQL和多模型数据库的数据建模. 
 -   [ScreenSquid](http://screensquid.com)- 记录和回放网站访客会话. 
 -   [CashNotify](https://cashnotify.com)- 从菜单栏中监控您的Stripe帐户. 
--   [Mockoon](https://mockoon.com)- 在几秒钟内模拟服务器. 
+-   [Mockoon](https://mockoon.com)- 在几秒钟内模拟服务器.
 -   [Twitch](https://app.twitch.tv)- 官方Twitch应用程序. 
 -   [Fenêtre](https://fenêt.re)- 适用于Mac的画中画. 
 -   [Cleaver](https://getcleaver.com)- 配置服务器和部署Web应用程序. 

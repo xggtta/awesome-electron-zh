@@ -81,6 +81,7 @@
 -   [Mojibar](https://github.com/muan/mojibar)- 您的菜单栏中的表情符号搜索者. 
 -   [Playback](https://github.com/mafintosh/playback)- 视频播放器.
 -   [UniFab](https://unifab.ai/ai-video-enhancer.htm)- AI音视频增强软件.
+-   [VanceAI](https://vanceai.com/image-enlarger/)- AI图像增强服务.
 -   [Upterm](https://github.com/railsware/upterm)- 终端. 
 -   [Atom](https://github.com/atom/atom)- 代码编辑器. 
 -   [Visual Studio Code](https://github.com/Microsoft/vscode)- 跨平台IDE. 

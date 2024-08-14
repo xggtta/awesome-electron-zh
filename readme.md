@@ -79,7 +79,8 @@
 -   [SpaceRadar](https://github.com/zz85/space-radar)- 交互式磁盘空间和内存可视化. 
 -   [Nocturn](https://github.com/k0kubun/Nocturn)-  Twitter客户端. 
 -   [Mojibar](https://github.com/muan/mojibar)- 您的菜单栏中的表情符号搜索者. 
--   [Playback](https://github.com/mafintosh/playback)- 视频播放器. 
+-   [Playback](https://github.com/mafintosh/playback)- 视频播放器.
+-   [UniFab](https://unifab.ai/ai-video-enhancer.htm)- AI音视频增强软件.
 -   [Upterm](https://github.com/railsware/upterm)- 终端. 
 -   [Atom](https://github.com/atom/atom)- 代码编辑器. 
 -   [Visual Studio Code](https://github.com/Microsoft/vscode)- 跨平台IDE. 
